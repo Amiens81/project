@@ -10,4 +10,6 @@
 
 [title](https://www.example.com)
 
-[^1]: This is the footnote.
+[^1]
+
+[^1]: This is the footnote
