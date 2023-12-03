@@ -7,6 +7,5 @@
 - Second item
 - - -
 ~~The world is flat.~~
-
 [title](https://www.example.com)
 
