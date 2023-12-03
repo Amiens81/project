@@ -6,7 +6,7 @@
 - First item
 - Second item
 - - -
-`code`
-### My Great Heading {#custom-id}
+~~The world is flat.~~
+
 [title](https://www.example.com)
 
